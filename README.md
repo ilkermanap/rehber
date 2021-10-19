@@ -1,7 +1,7 @@
-# Muhasebe Uygulamasi
+# Rehber Uygulamasi
 
-Her ne kadar muhasebe adini vermis olsakta, bu uygulama sadece sqlalchemy 
-ile pyqt/pyside kullaniminin gosterimi icin ornek olarak verilmistir. 
+Oncelikle her turlu muhasebe uygulamasinin icinde var olan kisi/adres bilgilerinin tutulacagi rehber uygulamasi yazacagiz.
+Daha sonra muhasebe islemlerini ekleyecegiz.
 
 
 
